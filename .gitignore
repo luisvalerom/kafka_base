@@ -1,0 +1,9 @@
+### VS Code ###
+.vscode/
+
+**/fixtures/isolated/*
+**/fixtures/secrets/*
+**/fixtures/combined/ssl*
+
+docker-compose-isolated.yml
+docker-compose-ssl-combined.yml
